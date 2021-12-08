@@ -1,0 +1,6 @@
+*.swp
+/.lvimrc
+
+/build/
+
+/.cache/
